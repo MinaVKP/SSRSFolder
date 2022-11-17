@@ -4,6 +4,7 @@
     <Extension>SQL</Extension>
     <ConnectString>Data Source=LAPTOP-34FHAUTJ\MSSQLSERVER01;Initial Catalog=NORTHWND</ConnectString>
     <IntegratedSecurity>true</IntegratedSecurity>
+    <Prompt>Specify a user name and password for data source DS_NorthWind</Prompt>
   </ConnectionProperties>
-  <DataSourceID>320ac46f-d6f5-4bb8-8efe-ca3fa525f4c1</DataSourceID>
+  <DataSourceID>a9f4b81b-bcea-4e1f-8921-21805c82a37d</DataSourceID>
 </RptDataSource>
